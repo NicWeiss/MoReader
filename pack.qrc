@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>gear.png</file>
+        <file>may_bg.png</file>
+    </qresource>
+</RCC>
